@@ -1,4 +1,4 @@
-﻿# L2B2-Frontend-Path-Assignment-6-Server-Starter-Pack
+
 
 ## Installation:
 1. Clone the repository.
